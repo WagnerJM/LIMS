@@ -5,7 +5,7 @@
 - create admin check function
 - speichern in der Datenbank vorbereiten von manage.py
 
-~~ - flask_migrate zur __init__ Datei hinzufügen~~
+- ~~flask_migrate zur __init__ Datei hinzufügen~~
 
 ## Notizen
 
